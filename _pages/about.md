@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 # [Kai-Yu Chen]
-Email: kaiyuchen@smail.nju.edu.cn
+Email: kaiyuchen@smail.nju.edu.cn \\
 Brief Description: I am a junior student from the School of Intelligent Science and Technology at Nanjing University.
